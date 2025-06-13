@@ -18,4 +18,9 @@ def load_data_from_api(*args, **kwargs):
     return pd.read_csv(io.StringIO(response.text), sep=',')
 
 
-
+@test
+def test_output(output, *args) -> None:
+    """
+    Template code for testing the output of the block.
+    """
+    assert output is not None, 'The output is undefined'
