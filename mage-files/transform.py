@@ -107,4 +107,9 @@ def transform(df, *args, **kwargs):
     "fact_table":fact_table.to_dict(orient="dict")}
 
 
-
+@test
+def test_output(output, *args) -> None:
+    """
+    Template code for testing the output of the block.
+    """
+    assert output is not None, 'The output is undefined'
