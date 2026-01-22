@@ -38,3 +38,15 @@ Here is the dataset used in this project - data/uber_data.csv
 1. [Extract Python File](mage-files/extract.py)
 2. [Load Python File](mage-files/load.py)
 3. [Transform Python File](mage-files/transform.py)
+
+## Complete Video Tutorial
+Video Link - https://www.youtube.com/watch?v=WpQECq5Hx9g
+
+## About the Maintainer
+
+This project is maintained by **Jyothi Kalakoti**, a Data Analyst with strong skills in **Python, SQL, and data visualization using Power BI and Tableau**. She focuses on building data-driven solutions through data analysis, ETL pipelines, and modern analytics tools.
+
+Her interests include **data analytics, data engineering workflows, and big data technologies**. This project demonstrates the use of cloud-based data pipelines and analytics to generate insights from large datasets.
+
+### Connect
+Email:  Kalakotijyothi01@gmail.com
